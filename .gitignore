@@ -1,0 +1,7 @@
+#output
+*.o
+#dependency
+*.d
+#compilation
+*.exe
+minimat

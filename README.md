@@ -27,3 +27,8 @@ Run the executable created by the Makefile.
 The program uses dynamic memory to store vectors
 during execution. Allocated memory is released
 when it is no longer needed to prevent memory leaks.
+
+## Testing Git Branches
+
+This section was added on mybranch during Lab 8
+to demonstrate Git branching and merging.
